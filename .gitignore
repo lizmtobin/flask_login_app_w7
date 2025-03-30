@@ -144,3 +144,7 @@ __pycache__/
 
 # Ignore VS Code workspace files
 *.code-workspace
+
+# Ignore SQLite database files
+*.sqlite
+*.db
